@@ -1,2 +1,1 @@
-# appy
 GASES IDEALES
